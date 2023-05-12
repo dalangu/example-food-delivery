@@ -3,7 +3,8 @@
 
 
 1. 이벤트 스토밍 모델
-<img width="1006" alt="스크린샷 2023-05-12 161923" src="https://github.com/dalangu/example-food-delivery/assets/101233285/ecd5d782-e1d6-423d-a52b-9ce9b9cbf1d1">
+
+<img width="1034" alt="eventstorming" src="https://github.com/dalangu/example-food-delivery/assets/101233285/9ce328c5-be64-4e4f-b867-8f1128cb7c3d">
 
 
 2. saga(pub/sub)
