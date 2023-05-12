@@ -3,7 +3,8 @@
 
 
 1. 이벤트 스토밍 모델
-<img width="1067" alt="이벤트스토밍_박다혜" src="https://github.com/dalangu/example-food-delivery/assets/101233285/2a643e6a-19e9-42e2-9d3a-a9429f786ded">
+<img width="1006" alt="스크린샷 2023-05-12 161923" src="https://github.com/dalangu/example-food-delivery/assets/101233285/ecd5d782-e1d6-423d-a52b-9ce9b9cbf1d1">
+
 
 2. saga
 
