@@ -1,8 +1,12 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
-<img width="178" alt="image" src="https://user-images.githubusercontent.com/101233285/237024602-b6369a59-a34b-45fc-bd7b-ab8cf5f1440b.png">
+
+
+
+1. <img width="1067" alt="이벤트스토밍_박다혜" src="https://github.com/dalangu/example-food-delivery/assets/101233285/2a643e6a-19e9-42e2-9d3a-a9429f786ded">
+
 
 # 예제 - 음식배달
-<img width="178" alt="image" src="https://user-images.githubusercontent.com/101233285/237024602-b6369a59-a34b-45fc-bd7b-ab8cf5f1440b.png">
+
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
 이는 클라우드 네이티브 애플리케이션의 개발에 요구되는 체크포인트들을 통과하기 위한 예시 답안을 포함합니다.
