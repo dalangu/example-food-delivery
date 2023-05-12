@@ -2,15 +2,19 @@
 
 
 
-1. <img width="1067" alt="이벤트스토밍_박다혜" src="https://github.com/dalangu/example-food-delivery/assets/101233285/2a643e6a-19e9-42e2-9d3a-a9429f786ded">
+1. 이벤트 스토밍 모델
+<img width="1067" alt="이벤트스토밍_박다혜" src="https://github.com/dalangu/example-food-delivery/assets/101233285/2a643e6a-19e9-42e2-9d3a-a9429f786ded">
 
+2. saga
 
-read model 
--1 <img width="323" alt="read model" src="https://github.com/dalangu/example-food-delivery/assets/101233285/9080d9de-dd5a-4af6-a396-069ab5f928b4">
--2 <img width="314" alt="read model2" src="https://github.com/dalangu/example-food-delivery/assets/101233285/53372d46-169c-4e04-bf00-a949b90522c0">
--3 <img width="319" alt="read model3" src="https://github.com/dalangu/example-food-delivery/assets/101233285/357b4a26-9547-4d04-99e3-697269751183">
--4 <img width="397" alt="read model4" src="https://github.com/dalangu/example-food-delivery/assets/101233285/18a16b42-0299-4d6f-9e9b-4de0bcf20909">
+3. CQRS  
+읽기 모델을 사용하여 매 주문,결제,요리,배송 상태변경시 update 처리함 
+<img width="323" alt="read model" src="https://github.com/dalangu/example-food-delivery/assets/101233285/9080d9de-dd5a-4af6-a396-069ab5f928b4">
+<img width="314" alt="read model2" src="https://github.com/dalangu/example-food-delivery/assets/101233285/53372d46-169c-4e04-bf00-a949b90522c0">
+<img width="319" alt="read model3" src="https://github.com/dalangu/example-food-delivery/assets/101233285/357b4a26-9547-4d04-99e3-697269751183">
+<img width="397" alt="read model4" src="https://github.com/dalangu/example-food-delivery/assets/101233285/18a16b42-0299-4d6f-9e9b-4de0bcf20909">
 
+4. 
 
 # 예제 - 음식배달
 
