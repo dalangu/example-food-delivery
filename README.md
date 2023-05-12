@@ -19,7 +19,8 @@
 <img width="319" alt="read model3" src="https://github.com/dalangu/example-food-delivery/assets/101233285/357b4a26-9547-4d04-99e3-697269751183">
 <img width="397" alt="read model4" src="https://github.com/dalangu/example-food-delivery/assets/101233285/18a16b42-0299-4d6f-9e9b-4de0bcf20909">
 
-4. 
+4. Compensation / Correlation
+<img width="794" alt="1111" src="https://github.com/dalangu/example-food-delivery/assets/101233285/e169dd89-a52e-4c13-8d1f-2a06aa337c00">
 
 # 예제 - 음식배달
 
