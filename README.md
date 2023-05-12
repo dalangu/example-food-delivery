@@ -6,7 +6,10 @@
 <img width="1006" alt="스크린샷 2023-05-12 161923" src="https://github.com/dalangu/example-food-delivery/assets/101233285/ecd5d782-e1d6-423d-a52b-9ce9b9cbf1d1">
 
 
-2. saga
+2. saga(pub/sub)
+<img width="599" alt="saga1" src="https://github.com/dalangu/example-food-delivery/assets/101233285/a3315d95-5522-492a-bc53-c40baccd9fb7">
+<img width="641" alt="saga3" src="https://github.com/dalangu/example-food-delivery/assets/101233285/f998f1fa-5ade-4759-b33c-0831de90a8e1">
+
 
 3. CQRS  
 읽기 모델을 사용하여 매 주문,결제,요리,배송 상태변경시 update 처리함 
