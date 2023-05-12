@@ -8,8 +8,9 @@
 
 
 2. saga(pub/sub)
-<img width="599" alt="saga1" src="https://github.com/dalangu/example-food-delivery/assets/101233285/a3315d95-5522-492a-bc53-c40baccd9fb7">
-<img width="641" alt="saga3" src="https://github.com/dalangu/example-food-delivery/assets/101233285/f998f1fa-5ade-4759-b33c-0831de90a8e1">
+<img width="563" alt="delivery" src="https://github.com/dalangu/example-food-delivery/assets/101233285/ddf232c7-b782-4f3e-8743-dbe5dd0a7287">
+<img width="574" alt="cookingstart" src="https://github.com/dalangu/example-food-delivery/assets/101233285/0d03e48a-c1e1-4e63-baec-d1d4fae363de">
+
 
 
 3. CQRS  
@@ -20,7 +21,9 @@
 <img width="397" alt="read model4" src="https://github.com/dalangu/example-food-delivery/assets/101233285/18a16b42-0299-4d6f-9e9b-4de0bcf20909">
 
 4. Compensation / Correlation
-<img width="794" alt="1111" src="https://github.com/dalangu/example-food-delivery/assets/101233285/e169dd89-a52e-4c13-8d1f-2a06aa337c00">
+<img width="579" alt="111" src="https://github.com/dalangu/example-food-delivery/assets/101233285/e934306e-7048-4f50-b09d-d5c392c975ca">
+<img width="452" alt="2222" src="https://github.com/dalangu/example-food-delivery/assets/101233285/4bbd9cce-2267-49bb-82f4-6d185fff1989">
+
 
 # 예제 - 음식배달
 
